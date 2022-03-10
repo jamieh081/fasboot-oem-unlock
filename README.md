@@ -1,3 +1,0 @@
-# fasboot-oem-unlock
-Shell
-
